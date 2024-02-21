@@ -1,3 +1,2 @@
-fa4f5ef Merge pull request #2 from odoo-ps/14.0-pricelist-2879421-mich
 36c69dc [FIX] it_electronic_payroll: run black
 4fedd75 [FIX] it_electronic_payroll: hide ehe_4 for non-ehe lines
