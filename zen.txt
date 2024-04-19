@@ -1,4 +1,6 @@
 Beautiful is better than ugly.
 Readability counts.
 
+In the face of ambiguity, refuse the temptation to guess
+
 The Zen of Python, by Tim Peters
