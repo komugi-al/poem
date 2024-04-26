@@ -4,3 +4,4 @@ Simple is better than complexe.
 Complex is better than complicated.
 
 The Zen of Python, by Tim Peters
+In the face of ambiguity, refuse the temptation to guess.
